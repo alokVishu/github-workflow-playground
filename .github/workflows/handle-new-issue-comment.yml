@@ -1,5 +1,4 @@
 name: Handle new issue comment
-
 on:
   issue_comment:
     types: [created]
